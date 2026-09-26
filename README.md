@@ -1,6 +1,14 @@
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Hello%2C+world.+I'm+Melwin." alt="Typing SVG" /></a>
 
-## About me
+### About Me
 
-Hi there 👋. I’m Melwin T Joshy, an aspiring Data Scientist. I'm currently in my first year of the Data Science Master's Program at Cochin University of Science and Technology in Kerala, driven by a deep interest in machine learning, deep learning, and AI. I'm on a journey to expand my knowledge and continuously improve my skills.
+Still learning.
+
+I study computer science, build things, break things, and try to understand things a little better each day.
+
+Interested in **AI, data science, distributed systems, and software engineering**.
+
+There is always more to learn, more to build, and more to improve.
+
+So I keep going.
