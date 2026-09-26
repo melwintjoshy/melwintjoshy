@@ -3,7 +3,7 @@
 
 ### About Me
 
-Still learning.
+Evolving.
 
 I study computer science, build things, break things, and try to understand things a little better each day.
 
